@@ -1,4 +1,5 @@
-import Header from "./Header";
+import Header from "./Component/Header";
+import MainContent from "./Component/Main";
 
 import "bootstrap/dist/css/bootstrap.min.css";
 const App = () => {
@@ -6,6 +7,7 @@ const App = () => {
     <>
       <div>
         <Header></Header>
+        <MainContent></MainContent>
       </div>
       <div>
         <h1>App</h1>
