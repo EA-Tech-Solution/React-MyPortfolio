@@ -1,3 +1,31 @@
-#headerContainer {
-    background-color: aqua;
+.hero-section {
+  position: relative;
+  overflow: hidden;
+  min-height: 100vh;
+  padding: 3rem 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;  
 }
+
+.hero-section::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("/Images/bgwork.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  transform: scaleX(-1); /* ✅ flips image horizontally */
+  z-index: -1;
+  opacity: 1;
+}
+.floating {
+  
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3); /* soft, elevated look */
+}
+ 
