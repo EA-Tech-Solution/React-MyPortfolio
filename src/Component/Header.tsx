@@ -31,7 +31,7 @@ const Header = () => {
             </div>
             <div className="col-md-6 text-center mt-4 mt-md-0">
               <img
-                src="Images\ProfileImage.jpg"
+                src="/React-MyPortfolio/Images/ProfileImage.jpg"
                 alt="Hero"
                 className="img-fluid rounded-circle"
                 style={{ maxWidth: '100%', opacity: 1 }}

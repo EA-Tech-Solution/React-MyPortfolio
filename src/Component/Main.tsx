@@ -6,19 +6,19 @@ const description = "As a Project Manager and Lead Developer, I have led and man
 const frproject = {
   name: '.Net | C# | Bootstrap | Sql Server',
   title: 'HRIS and HRMS Project',
-  imageurl: '/Images/FRdashboard1.jpg',
+  imageurl: '/React-MyPortfolio/Images/FRdashboard1.jpg',
   description: 'The Human Resource Information System and Human Resource Management System projects manages and control clients employee with various roles, HR dashboard, applicant listing, Jobs and Requisition listing, Positions, applicant statuses, applicant-boarding process, applicant profile, applicant acitvity, Applicant communications, Track Document and Training, Various Report pages and applicant tracking system used by diverese clients.',
 };
 const fwproject = {
   name: '.Net MVC | API | C# | Bootstrap | Sql Server',
   title: 'Employee Training with an Online Learning Management Project',
-  imageurl: '/Images/TrainingFW.jpg',
+  imageurl: '/React-MyPortfolio/Images/TrainingFW.jpg',
   description: 'The Employee training program manages comprehensive modules with videos, PowerPoint presentations, PDFs, quizzes, and a grading system.',
 };
 const docproject = {
   name: '.Net | C# | Bootstrap | Sql Server',
   title: 'Document Management Project',
-  imageurl: '/Images/DocumentManagement1.jpg',
+  imageurl: '/React-MyPortfolio/Images/DocumentManagement1.jpg',
   description: 'The Employee Management System provides storage space, a filing system, and the ability to easily sign and retrieve documents.',
 };
 
