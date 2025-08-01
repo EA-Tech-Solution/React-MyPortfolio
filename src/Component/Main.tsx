@@ -1,4 +1,3 @@
-import { Container } from "react-bootstrap";
 
 import { BsGithub, BsFacebook, BsLinkedin, BsEnvelope, BsPhone, BsHouse } from "react-icons/bs";
 import "./Main.css";
