@@ -120,7 +120,7 @@ const Main = () => {
                                     <span className="text-white mx-1"> </span>
                                     <a href="#three" className="me-2"><BsGithub size={30} className="me-2 text-white" /> <span className="small fw-bold text-white"></span> </a>
                                     <span className="text-white mx-1"> </span>
-                                    <a href="www.linkedin.com/in/ian-kevin-esguerra-2093ba230" className="me-2 text-white"><BsLinkedin size={30} className="me-2" /><span className="small fw-bold text-white"></span></a>
+                                    <a href="https://www.linkedin.com/in/ian-kevin-esguerra-2093ba230" className="me-2 text-white"><BsLinkedin size={30} className="me-2" /><span className="small fw-bold text-white"></span></a>
                                 </div>
                             </div>
                             <div className="ms-xl-4"> 
